@@ -1,4 +1,4 @@
-- [ ] Why would you use class component over function components (removing hooks from the question)?
+- [ ] Why would you use class component over function components (removing hooks from the question)? - Class Components gives a lot of functionality that we normally didn’t get with the React API when using function components.
 
 * [ ] Name three lifecycle methods and their purposes.
 
