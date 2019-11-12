@@ -1,0 +1,42 @@
+.dark-mode__toggle {
+  background: white;
+  border-radius: 50px;
+  border: 1px solid black;
+  height: 40px;
+  position: relative;
+  width: 20px;
+}
+.dark-mode__toggled {
+  background: black;
+  border-radius: 50px;
+  border: 1px solid black;
+  height: 40px;
+  position: relative;
+  width: 20px;
+}
+
+.toggle {
+  background: black;
+  border-radius: 50px;
+  height: 18px;
+  bottom: 21px;
+  left: 1px;
+  position: absolute;
+  transition: 0.2s;
+  width: 18px;
+}
+
+.toggled {
+  bottom: 1px;
+  background: white;
+}
+
+.dark-mode {
+  color: #fff;
+  background-color: #1f2022;
+
+  .Navigation {
+    background-color: #1f2022;
+    border: none;
+  }
+}
